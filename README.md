@@ -46,6 +46,13 @@ docker run -v $(pwd)/data:/app/data spacenet-scraper
 
 ## Déploiement sur Railway
 
+### 🚀 Guide rapide
+Consultez [QUICK_START.md](QUICK_START.md) pour un déploiement en 3 étapes simples.
+
+### 📚 Documentation complète
+Pour plus de détails sur le déploiement, les options de stockage et le monitoring, consultez [RAILWAY_DEPLOYMENT.md](RAILWAY_DEPLOYMENT.md).
+
+### Résumé des étapes :
 1. Connectez-vous à [Railway](https://railway.app)
 2. Créez un nouveau projet
 3. Connectez votre dépôt GitHub
